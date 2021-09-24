@@ -14,4 +14,10 @@
     <li>Pursing my pasion in the field of IT from IsquareIT</li>
   </b>
 </ol>
-  
+<h1>Programming Languages Learned</h1>
+<img src="https://aws1.discourse-cdn.com/sitepoint/original/3X/b/5/b59a78e2ed76c705f3c0dcb300f3f222aefdcd99.png" align="left" width="50%" height="50%">
+<img src="https://www.theindianwire.com/wp-content/uploads/2018/06/java.jpg" align="right" width="40%" height="50%">
+<br>
+<img src="https://i.pinimg.com/474x/77/fc/a5/77fca518c18ea242a72d26e649148567.jpg" align="left" width="50%" height="50%">
+<img src="https://www.pragimtech.com/wp-content/uploads/2020/03/c-tutorial-for-beginners.png" align="right" width="40%" height="50%">
+<br>
