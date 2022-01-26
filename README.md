@@ -1,23 +1,4 @@
-<h1>Hey User👋 | Welcome to My GitHub🐱‍👤Landing Page</h1>
-<ol align="left" type="1"><img src ="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=400x300" align="right">
-  <b>
-    <li>Born in 24th April, 2002.</li>
-    <li>Fallen in Love with Computer at the age of 6.</li>
-    <li>After Falling in love, I started my coding at the same age</li>
-    <li>Learned 5 Types of languages before completing my schooling</li>
-    <li>Earned the title of Proficiency in Computer Applications</li>
-    <li>Completed my schooling from Podar International School(ICSE)</li>
-    <li>Earned the title of Specalist in Microsoft Word 2013</li>
-    <li> Started My startup with a basic application at age of 16</li>
-    <li>Completed my Higher Studies from Dr. D Y Patil Junior College of Arts, Commerce and Science(HSC)</li>
-    <li>Scored 97% in IT subject in my 12th and got a letter of appreciation from our Vice Principal</li>
-    <li>Pursing my pasion in the field of IT from IsquareIT</li>
-  </b>
-</ol>
-<h1>Programming Languages Learned 👨‍💻</h1>
-<img src="https://aws1.discourse-cdn.com/sitepoint/original/3X/b/5/b59a78e2ed76c705f3c0dcb300f3f222aefdcd99.png" align="left" width="50%" height="50%">
-<img src="https://www.theindianwire.com/wp-content/uploads/2018/06/java.jpg" align="right" width="40%" height="50%">
-<br>
-<img src="https://i.pinimg.com/474x/77/fc/a5/77fca518c18ea242a72d26e649148567.jpg" align="left" width="50%" height="50%">
-<img src="https://www.pragimtech.com/wp-content/uploads/2020/03/c-tutorial-for-beginners.png" align="right" width="40%" height="50%">
-<br>
+<h1>Hey User👋, <br>Welcome to My GitHub🐱‍👤Landing Page</h1>
+<img src = "https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966" align = "right" width="50%">
+<p>I am Pritish Rajpurohit Know As HiddenTrojan. I am know for my Work in the Indsutry of technology. Writing Poems and Stories is due to my addictions towards Literature and my unhappy past. For many People, the key to bright future is success in my case failure is the key to get success and that's what keep motivated. Life is not a race as it is a maze that will always be unsloved.</p>
+<!--<h1>About My Work</h1>-->
