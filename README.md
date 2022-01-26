@@ -1,4 +1,4 @@
-<h1>Hello User, I am Pritish Rajpurohit 👋</h1>
+<h1>Hey User👋 | Welcome to My GitHub🐱‍👤Landing Page</h1>
 <ol align="left" type="1"><img src ="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=400x300" align="right">
   <b>
     <li>Born in 24th April, 2002.</li>
