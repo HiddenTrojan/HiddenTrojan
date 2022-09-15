@@ -5,7 +5,7 @@
 <p>I am Pritish Rajpurohit Know As HiddenTrojan. I am know for my Work in the Indsutry of technology. Writing Poems and Stories is due to my addictions towards Literature. For many People, the key to bright future is success in my case failure is the key to get success and that's what keep me motivated. Life is not a race as it is a maze that has to be solved by you and become the ace.</p>
 <!-- Section End -->
 
-<!--Work & Project Section-->
+<!--Work & Project Section
 # My Work👨‍💻 And Projects✍
 <img src = "https://i.imgur.com/WtVOjr6.gif" align = "right" width = "50%">
 <p>I have being working on my startup and has got a good response from the users. My startup is a application and web developing company. I have created my first application at the age of 16 and published it on my Google Play Store which was a web application of my Board students to check their results through phone. After that I created and experimented multiple application and most of them where getting a good response while others where have some or the other issue with either privacy or copyright issues. I published 3 applications out of which two were outstanding according to public review.
@@ -13,8 +13,29 @@
     <li>The First Application was made for student's of my board which was used to check syllabus and result which gets published on their site. This Application got more than 5000+ downloads.</li>
     <li>My Second Application was an app that gives update and shows video of a content creator. This application was about to shut down due to very few responses and unable to maintain real time update. Fortunately, This app got hyped up to the creator's new video which he published and it got more than 10,000+ downloads and 500+ reviews which made me clear the issues of the application and give users a better UI.</li>
   </ol>
-</p>
+</p>-->
 <!-- Section End -->
+
+<!-- Trophy Section -->
+
+# 🏆Trophy Section
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=smashcoder" width="80%">
+</div>
+
+<!-- Section End-->
+
+<!-- Stats Section -->
+
+# 📈Stats Section
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smashcoder&theme=vue">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=smashcoder&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smashcoder&layout=compact&theme=dark" width="40%">
+<img src="https://github-readme-stats.vercel.app/api?username=smashcoder&show_icons=true&theme=dark">
+</div>
+
+<!-- Section End-->
 
 <!-- Languages & Platforms Section -->
 # Languages and Platforms Explored
