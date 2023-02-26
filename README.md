@@ -20,7 +20,15 @@
  
  ---
 
-<a href = "https://www.hackerrank.com/thedashcoder?hr_r=1" target="_parent">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black)</a>
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
+<a href = "https://www.hackerrank.com/thedashcoder?hr_r=1">![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black)</a>
+<a href = "https://www.hackerearth.com/@smashcoder">![HackerRank](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)</a>
+<a href = "https://www.instagram.com/thatcrazydeveloper/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href = "https://www.linkedin.com/in/pritishrajpurohit/?original_referer=https%3A%2F%2Fsmashcoder.github.io%2F">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href = "mailto:pritish.rajpurohit@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href = "https://twitter.com/smashcoder">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href = "https://play.google.com/store/apps/dev?id=7506960629333276467">![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)</a>
+<a href = "https://smashcoder.github.io">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
+
+<h1 align="center">Chase Your Dreams Not A Girl,<br>Complete your goals like you do things for her.<br>-Pritish Rajpurohit</h1>
+
+---
