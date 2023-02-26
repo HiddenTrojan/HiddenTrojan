@@ -8,6 +8,10 @@
 
 ---
 
+<img src = "https://github.com/smashcoder/smashcoder/blob/c0a577b89365636e70df85d12d96e068e7bffdb7/BannerLanguages.gif" width = "100%">
+
+---
+
 <img src = "https://github-readme-streak-stats.herokuapp.com/?user=smashcoder" width = "52%"> <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smashcoder"  width = "47%">
 
  ---
