@@ -8,7 +8,7 @@
 
 ---
 
-<img src = "https://github.com/smashcoder/smashcoder/blob/14b804482ffadda67c257991d3523ec4a41bf615/BannerLanguages.gif" width = "100%">
+<img src = "https://github.com/smashcoder/smashcoder/blob/9de452d7ca740f8bbd17de4ab20e972dbf0e2115/GitHub%20Banner%20-%20Languages.png" width = "100%">
 
 ---
 
