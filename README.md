@@ -16,7 +16,7 @@
 
  ---
  
- <img src = "https://github-readme-activity-graph.cyclic.app/graph?username=smashcoder&theme=react-dark" width = "100%">
+ <img src = "https://github-readme-activity-graph.vercel.app/graph?username=smashcoder" width = "100%">
  
  ---
 
