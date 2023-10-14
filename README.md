@@ -27,4 +27,9 @@
 <a href = "mailto:pritish.rajpurohit@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href = "https://twitter.com/smashcoder">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 <a href = "https://smashcoder.github.io">![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
+
+---
+
+[![An image of @smashcoder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smashcoder)](https://holopin.io/@smashcoder)
+
 ---
